@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html style="height: 832px;">
+<head>
+    <title>LLM Evaluation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatBot</title>
+    <link rel="stylesheet" href="../Style/style.css">
+</head>
+<body>
+    <div class="screen-div">
+        <header class="header">
+            <div class="UAE-Assisstant">UAE-Assisstant</div>
+            <img class="head-logo" src="../images/header-logo.png" />
+        </header>
+        <div class="background-chatbot">
+        <img class="main-logo" src="../images/main-logo.png" />
+        <div class="main-q-UAE">How can i help you today?</div>
+        </div>
+        <div class="conver-container">
+            <div class="chat-box" id="chat-box">
+                <div class="user-input-container" style="display:none;">
+                    <!-- User input messages will be appended here -->
+                </div>
+                <div class="llms-output-container" style="display:none;">
+                    <!-- llms output messages will be appended here -->
+                </div>
+            </div>
+        </div>
+        <form method="post" onsubmit="return false;">
+            <div class="prompt-container">
+                <textarea class="prompt-textarea" tabindex="0" data-id="root" dir="auto" rows="1" placeholder="Ask me anything.."></textarea>
+            </div>
+            <button onclick="sendMessage(event)" class="send-btn">
+                <div class="send-icon"></div>
+            </button>
+        </form>
+    </div>
+    <script src="../Scripts/scrpit.js"></script>
+</body>
+</html>

@@ -1,0 +1,514 @@
+Information and services
+Justice, safety and the law
+Cyber safety and digital security
+Cyber safety and digital security are serious issues in the UAE. Read how the UAE is protecting its citizens and residents in this field and reinforcing trust in the digital space.
+Law on combatting rumours and cybercrimes
+RZAM app for cybersecurity
+Report cybercrimes online
+UAE Information Assurance (IA) Regulation
+Digital wellbeing support line
+Cyber safety
+Digital security
+eSignature and digital certification
+Child Digital Safety
+UAE Cybersecurity Council
+Global Cybersecurity Index
+Dubai Cyber Index
+Law on combatting rumours and cybercrimes
+Federal Decree Law No. 34 of 2021 on Combatting Rumours and Cybercrimes took effect on 2 January 2022. The law provides a comprehensive legal framework to address the concerns relating to the misuse and abuse of online technologies.
+Federal Decree Law No. 34 of 2021 on Combatting Rumours and Cybercrimes took effect on 2 January 2022. The law provides a comprehensive legal framework to address the concerns relating to the misuse and abuse of online technologies.
+Federal Decree Law No. 34 of 2021 on Combatting Rumours and Cybercrimes
+
+
+
+It aims to enhance the level of protection from online crimes committed through the use of information technology, networks and platforms. It further seeks to protect the UAE’s government websites and databases, combat the spread of rumours and fake news, safeguard against electronic fraud and maintain privacy and personal rights.
+It aims to enhance the level of protection from online crimes committed through the use of information technology, networks and platforms. It further seeks to protect the UAE’s government websites and databases, combat the spread of rumours and fake news, safeguard against electronic fraud and maintain privacy and personal rights.
+
+
+The law lists offences and penalties against any person who may create or use an electronic site or any information technology means for hacking, attacking or tampering with government information systems and data, disseminating false information, or information that harms the interest and the security of the UAE. Other cyber offences in the law include:
+The law lists offences and penalties against any person who may create or use an electronic site or any information technology means for hacking, attacking or tampering with government information systems and data, disseminating false information, or information that harms the interest and the security of the UAE. Other cyber offences in the law include:
+creating or modifying robots to distribute false data
+falsifying electronic documents
+invading the privacy of others
+tampering with medical data, bank accounts and confidential codes
+eBegging
+publishing data that does not comply with media content standards
+media content standards
+creating illegal content and refraining from removing it
+creating or managing a website for promoting human trafficking
+transferring, possessing and using illegal funds
+raising funds without a licence
+blackmailing and extortion
+insulting and slandering others
+conducting statistical surveys without a licence
+promoting demonstrations without a licence
+offending a foreign country or religion
+promoting firearms and explosives
+advertising information which mislead consumers.
+Read these articles from WAM, for more information:
+
+Penalties of collecting and processing personal data and information
+Penalties of collecting and processing personal data and information
+Penalties of fake e-mails, websites, online accounts
+Penalties of fake e-mails, websites, online accounts
+Penalties for falsifying electronic document
+Penalties for falsifying electronic document
+Penalties for infringement of data of financial, commercial, economic institutions using IT
+Penalties for infringement of data of financial, commercial, economic institutions using IT
+Penalties of failure to comply with media content standards
+Penalties of failure to comply with media content standards
+Penalties for incitement of debauchery using computer or IT networks.
+Penalties for incitement of debauchery using computer or IT networks
+
+
+Read about other cyber laws and regulations in the UAE.
+Read about other cyber laws and regulations in the UAE.
+cyber laws and regulations in the UAE
+RZAM app for cybersecurity
+The RZAM app is a plug-in browser designed to detect malicious websites and block malicious websites.
+The RZAM app is a plug-in browser designed to detect malicious websites and block malicious websites.
+
+
+It scans websites’ links and assesses the webpages for harmful content. It also investigates unsafe browsing addresses and online phishing sites. It then flags potential threats.
+It scans websites’ links and assesses the webpages for harmful content. It also investigates unsafe browsing addresses and online phishing sites. It then flags potential threats.
+
+
+Using advanced analytic techniques and machine learning algorithms, RZAM can differentiate between malicious and genuine sites without requiring human interaction or retrieving historical data from databases.
+Using advanced analytic techniques and machine learning algorithms, RZAM can differentiate between malicious and genuine sites without requiring human interaction or retrieving historical data from databases.
+
+
+RZAM supports the growth of the knowledge-based economy, encourages investment in the digital economy and enhances Dubai’s digital resilience.
+RZAM supports the growth of the knowledge-based economy, encourages investment in the digital economy and enhances Dubai’s digital resilience.
+
+
+It also supports Arabic language, further enhancing its effectiveness.
+It also supports Arabic language, further enhancing its effectiveness.
+
+
+Download the RZAM app from the App Store, Firefox Store and Chrome Store.
+Download the RZAM app from the
+App Store
+App Store
+App Store
+,
+Firefox Store
+Firefox Store
+Firefox Store
+and
+Chrome Store
+Chrome Store
+Chrome Store
+.
+
+
+Related links
+Related links
+Dubai Electronic Security Centre upgrades RAZM cybersecurity app to strengthen digital security standards in Dubai
+Dubai Electronic Security Centre upgrades RAZM cybersecurity app to strengthen digital security standards in Dubai
+Dubai Electronic Security Centre upgrades RAZM cybersecurity app to strengthen digital security standards in Dubai
+Report cybercrimes online
+You can report cybercrimes online through the following channels:
+the ‘eCrimes platform’ launched by the UAE’s Ministry of interior (available on MoI UAE app on Google Play, App Store, and AppGallery.
+‘eCrimes platform’
+Google Play
+App Store
+AppGallery
+the eCrime website - Dubai Police
+eCrime
+Aman service- Abu Dhabi Police
+Aman service-
+the ‘My Safe Society’ app launched by the UAE’s federal
+(the app is available on iTunes and Google Play.
+iTunes
+iTunes
+Google Play
+
+You can also report cybercrimes to the nearest police station in your area, or call 999 for help.
+report cybercrime
+
+Related links:
+Related links:
+Reporting prohibited content to the Internet Service Providers in UAE
+UAE Information Assurance (IA) Regulation
+In light of the rapidly evolving cyber threats, including hacktivists and organised cybercrime groups that challenge national security and compromise critical information assets, Telecommunications and Digital Government Regulatory Authority developed the ‘UAE Information Assurance Regulation’ to provide requirements to raise the minimum level of protection of information assets and supporting systems across all entities in the UAE. The regulation seeks a trusted digital environment throughout the UAE.
+Telecommunications and Digital Government Regulatory Authority
+and Digital Government
+UAE Information Assurance Regulation
+
+The IA Regulation provides management and technical information security controls for entities to establish, implement, maintain, and continuously improve information assurance. TDRA will designate the critical entities as per the UAE CIIP Policy to implement the IA Regulation and apply its requirements to the use, processing, storage and transmission of information or data, and the systems and processes used for those purposes. This includes information in physical or electronic form that may be owned, leased, or otherwise in the possession, custody, or control of the entities.
+
+In particular, the IA Regulation provides:
+
+Related links
+Critical Information Infrastructure Protection (CIIP) Policy (3.9 MB)
+Critical Information Infrastructure Protection (CIIP) Policy
+The National Information Assurance Framework (5.9 MB)
+The National Information Assurance Framework
+
+Digital wellbeing support line
+80091 is the UAE Digital Wellbeing Support Line (content in Arabic), the first initiative of the Digital Wellbeing Council. The support line provides professional advice from dedicated experts for all members of the family on practical daily situations we face in the digital world.
+80091 is the UAE Digital Wellbeing Support Line (content in Arabic), the first initiative of the Digital Wellbeing Council. The support line provides professional advice from dedicated experts for all members of the family on practical daily situations we face in the digital world.
+UAE Digital Wellbeing Support Line
+Cyber safety
+FedNet
+
+
+The FedNet team is responsible for observing and monitoring the events and procedures of the FedNet round the clock, ensuring that the necessary actions are taken in case of errors or violations. A Security Information and Event Management (SIEM) system is operated by a dedicated 24/7/365 security operations centre (SOC) to manage all security events within FedNet.
+The FedNet team is responsible for observing and monitoring the events and procedures of the FedNet round the clock, ensuring that the necessary actions are taken in case of errors or violations. A Security Information and Event Management (SIEM) system is operated by a dedicated 24/7/365 security operations centre (SOC) to manage all security events within FedNet.
+
+
+The UAE is taking several other efforts to maintain and strengthen cybersecurity. Some of these efforts are mentioned below.
+The UAE is taking several other efforts to maintain and strengthen cybersecurity. Some of these efforts are mentioned below.
+
+
+Establishing aeCERT
+Establishing aeCERT
+
+
+
+The UAE dedicated a Computer Emergency Response Team (aeCERT) to improve the standards of information security in the UAE and protect the IT infrastructure from potential risks and violations. aeCERT aims to support and ensure a safer cyberspace for the UAE nationals and residents and disseminate information about threats, vulnerabilities and cybersecurity incidents.
+The UAE dedicated a Computer Emergency Response Team (aeCERT) to improve the standards of information security in the UAE and protect the IT infrastructure from potential risks and violations. aeCERT aims to support and ensure a safer cyberspace for the UAE nationals and residents and disseminate information about threats, vulnerabilities and cybersecurity incidents.
+Computer Emergency Response Team (aeCERT)
+
+
+Launching initiatives on cybersecurity
+Launching initiatives on cybersecurity
+Launching initiatives on cybersecurity
+
+
+
+‘Cyber Pulse’ initiative
+Cyber Pulse’ initiative
+‘Cyber Pulse’ is an initiative that aims to encourage community members in the UAE to play a part in cybersecurity efforts. It seeks to enhance public awareness on suspicious online activities and the necessary steps to be taken from becoming a victim of ePhishing.
+‘Cyber Pulse’ is an initiative that aims to encourage community members in the UAE to play a part in cybersecurity efforts. It seeks to enhance public awareness on suspicious online activities and the necessary steps to be taken from becoming a victim of ePhishing.
+The initiative provides training courses, workshops and lectures about cybersecurity, and information on how community members could protect themselves in the digital world.
+The initiative provides training courses, workshops and lectures about cybersecurity, and information on how community members could protect themselves in the digital world.
+The first phase of the initiative targeted women and families. The second phase targeted students.
+The first phase of the initiative targeted
+women and families
+women and families
+women and families
+. The second phase targeted
+students.
+students.
+students.
+
+
+General tips
+General tips
+Web users should not:
+Web users should not:
+should not:
+should not:
+publish private contact information on unreliable online platforms
+click on any unknown links sent by text messages
+download any apps from unknown sources.
+
+
+Users should:
+Users should:
+should:
+should:
+keep backup copies of personal data
+update smartphone operating systems periodically
+follow the security alerts issued by phone manufacturers.
+
+
+Signs of being a victim of electronic fraud (eFraud)
+Signs of being a victim of electronic fraud (eFraud)
+Signs include:
+Signs include:
+battery depletion and consumption at an abnormal rate
+slower smartphone processing speeds
+the device performing unauthorised automated tasks, such as sending text messages to contacts or downloading additional apps
+a rise in the device’s temperature without using performance-draining apps.
+
+
+What should victims of eFraud do?
+What should victims of eFraud do?
+Victims of eFraud must not give in to any threats. They should report such incidents to official authorities immediately.
+Victims of eFraud must not give in to any threats. They should
+report such incidents to official authorities immediately.
+report such incidents to official authorities immediately.
+report such incidents to official authorities
+immediately
+.
+
+
+‘Cyber Pulse’ was launched by the UAE Cybersecurity Council, in collaboration with strategic partners.
+‘Cyber Pulse’
+‘Cyber Pulse’
+‘Cyber Pulse’
+was launched by the UAE Cybersecurity Council, in collaboration with strategic partners.
+
+
+Salim- an online cybersecurity advisor
+Salim- an online cybersecurity advisor
+The UAE Computer Emergency Response Team (aeCERT) jointly with Aqdar, launched the initiative Salim, an online cybersecurity advisor, with the slogan 'Towards a safe cyber culture'.
+The UAE Computer Emergency Response Team (aeCERT) jointly with Aqdar, launched the initiative Salim, an online cybersecurity advisor, with the slogan 'Towards a safe cyber culture'.
+Aqdar
+The goal of this initiative is to spread knowledge about cyber safety to the entire community and have a generation that has integrated knowledge about information security and is mindful when conducting activities online.
+The goal of this initiative is to spread knowledge about cyber safety to the entire community and have a generation that has integrated knowledge about information security and is mindful when conducting activities online.
+
+
+
+UAE Ambassadors for electronic security
+UAE Ambassadors for electronic security
+This initiative from TRA aims to train top UAE students to serve as ambassadors in promoting and spreading cybersecurity awareness across the UAE. Read about other cybersecurity initiatives in the UAE.
+This initiative from TRA aims to train top UAE students to serve as ambassadors in promoting and spreading cybersecurity awareness across the UAE. Read about other cybersecurity initiatives in the UAE.
+cybersecurity initiatives
+
+
+
+Cyber blackmailing
+Cyber blackmailing
+In 2016, the Dubai Police’s Al Ameen service in cooperation with the UAE's Telecommunications and Digital Government Regulatory Authority (TDRA) organised a cyber-blackmail awareness campaign. The campaign aims to protect victims from blackmailing by chasing all criminals in all parts of the world, in addition to issuing requests to the Interpol to hunt these criminals wherever they are. Read more on cyber blackmailing and how to stay safe.
+In 2016, the Dubai Police’s Al Ameen service in cooperation with the UAE's Telecommunications and Digital Government Regulatory Authority (TDRA) organised a cyber-blackmail awareness campaign. The campaign aims to protect victims from blackmailing by chasing all criminals in all parts of the world, in addition to issuing requests to the Interpol to hunt these criminals wherever they are.
+cyber-blackmail awareness campaign
+cyber blackmailing
+
+
+
+
+
+
+
+
+
+
+
+Launching cyber security strategies
+Launching cyber security strategies
+
+
+
+The UAE’s National Cyber Security Strategy
+The UAE’s National Cyber Security Strategy
+The UAE’s National Cybersecurity strategy aims to create a safe and strong cyber infrastructure in the UAE that enables citizens to fulfill their aspirations and empowers businesses to thrive. The updated version of the strategy was launched in 2019 by Telecommunications and Digital Government Regulatory Authority (TDRA), the entity which is responsible for the ICT sector and digital transformation in the country. The strategy is based on 5 pillars and 60 initiatives aiming to mobilise the whole cybersecurity ecosystem in the UAE.
+The UAE’s National Cybersecurity strategy aims to create a safe and strong cyber infrastructure in the UAE that enables citizens to fulfill their aspirations and empowers businesses to thrive. The updated version of the strategy was launched in 2019 by Telecommunications and Digital Government Regulatory Authority (TDRA), the entity which is responsible for the ICT sector and digital transformation in the country. The strategy is based on 5 pillars and 60 initiatives aiming to mobilise the whole cybersecurity ecosystem in the UAE.
+National Cybersecurity strategy
+
+Dubai cyber security strategy
+Dubai cyber security strategy
+The emirate of Dubai launched the Dubai Cyber Security Strategy (PDF, 2.67 MB) which aims to strengthen Dubai's position as a world leader in innovation, safety and security. One of the main domains of the plan is to build a secure cyber space by establishing controls to protect the confidentiality, credibility, availability and privacy of data. Read more on the Dubai Cyber Security Strategy.
+the Dubai Cyber Security Strategy
+Dubai Cyber Security Strategy.
+
+
+Digital security
+The UAE maintains digital security of individuals through the UAE Pass app and Emirates ID.
+
+The UAE Pass app
+The UAE Pass app
+The UAE Pass app is the first national digital identity and signature solution that enables users to identify themselves to government service providers in all emirates through a smartphone-based authentication. It also enables users to sign documents digitally with a high level of security. The app is available on iTunes and Google Play.
+The app is available on
+iTunes
+and
+Google Play
+.
+
+
+Emirates ID
+
+Emirates ID
+Federal Authority for Identity, Citizenship, Customs and Ports Security (ICP) succeeded in launching electronic identity cards for the whole population in the country including nationals and residents. The card carries biometric details of the holders an, in order to verify and confirm the identity of each individual through the personal number and the smart card related to the biological features of the individual.
+Federal Authority for Identity, Citizenship, Customs and Ports Security
+ICP issues Emirates ID card to registered people. The card has several uses. It can be used as an identity proof to get government services, for voting in the elections of Federal National Council, as a travel document for UAE citizens to travel within the GCC and as a document to pass immigration through the eGates and smart gates at several airports in the UAE. Further, the identity card is designed to reinforce security for its holders, guarding them against fraud and illicit transactions. Read about the Emirates ID’s features and benefits and how to apply for an Emirates ID.
+ICP issues
+Emirates ID card
+to registered people. The card has several uses. It can be used as an identity proof to get government services, for voting in the elections of Federal National Council, as a travel document for UAE citizens to travel within the GCC and as a document to pass immigration through the eGates and smart gates at several airports in the UAE. Further, the identity card is designed to reinforce security for its holders, guarding them against fraud and illicit transactions. Read about the Emirates ID’s
+features
+eatures
+eatures
+and benefits and how to apply for an Emirates ID
+and benefits
+and
+benefits
+apply for an Emirates ID
+apply for an Emirates ID
+.
+eSignature and digital certification
+What is an eSignature?
+What is an eSignature?
+What is an eSignature?
+An eSignature is used in electronic messages to identify the signatory (the sender of the message) and distinguish them from everyone else. An eSignature also proves that the message received is the same message that was sent by the signatory and that nothing has been added, deleted or amended. It may consist of letters, marks, symbols, numbers, sounds or images.
+An eSignature is used in electronic messages to identify the signatory (the sender of the message) and distinguish them from everyone else. An eSignature also proves that the message received is the same message that was sent by the signatory and that nothing has been added, deleted or amended. It may consist of letters, marks, symbols, numbers, sounds or images.
+
+
+An eSignature is as binding as a signature executed by hand. Federal Decree by Law No. 46 of 2021 on Electronic Transactions and Trust Services (PDF, 4.4 MB, available in Arabic only) approves the use of eSignatures in the UAE. To create an eSignature, you need an electronic signature creation device, and a digital certificate to be authorised to use this device. Certification services providers issue digital certificates. These certificates confirm the identity of the signature device holder.
+An eSignature is as binding as a signature executed by hand.
+Federal Decree by Law No. 46 of 2021 on Electronic Transactions and Trust Services
+(PDF, 4.4 MB, available in Arabic only)
+
+
+What is a digital certificate?
+What is a digital certificate?
+A digital certificate is a certificate issued by a certification service provider, which confirms the identity of the person or entity holding an electronic signature creation device. An electronic signature creation device is a uniquely configured device or electronic information that enables a person to apply his e-signature in the form of electronic keys and symbols.
+A digital certificate is a certificate issued by a certification service provider, which confirms the identity of the person or entity holding an electronic signature creation device. An electronic signature creation device is a uniquely configured device or electronic information that enables a person to apply his e-signature in the form of electronic keys and symbols.
+
+
+What is a digital certification service provider (DCSP)?
+What is a digital certification service provider (DCSP)?
+What is a digital certification service provider (DCSP)?
+A digital certification service provider is an accredited or authorised natural person or legal entity that issues digital certificates and offers digital signature-related services.
+A digital certification service provider is an accredited or authorised natural person or legal entity that issues digital certificates and offers digital signature-related services.
+
+
+How to apply for a DCSP license?
+How to apply for a DCSP license?
+How to apply for a DCSP license?
+You can apply for a DCSP license through Telecommunications and Digital Government Regulatory Authority (TDRA). Obtaining a licence from TRA is required for all digital certificate service providers operating in the UAE with respect to eRecords, eDocuments and eSignatures related to eTransactions and/or eCommerce. To apply for a DCSP licence, you need to submit the following documents to TRA:
+You can apply for a DCSP license through Telecommunications and Digital Government Regulatory Authority (TDRA). Obtaining a licence from TRA is required for all digital certificate service providers operating in the UAE with respect to eRecords, eDocuments and eSignatures related to eTransactions and/or eCommerce. To apply for a DCSP licence, you need to submit the following documents to TRA:
+Telecommunications and Digital Government Regulatory Authority
+Telecommunications and Digital Government Regulatory Authority
+eCommerce
+your company’s memorandum and Articles of Association
+details of your company’s organisational and ownership structure
+the commercial licence authorising you to act as a DCSP
+a statement of your commercial activities
+details of the company's accounts and financial resources for the previous two years (or less if your company has been trading for less than two years)
+an insurance policy which shows you have sufficient cover for your activities as a DCSP.
+
+
+Digital signature and timestamp service
+Digital signature and timestamp service
+Digital signature and timestamp service
+Federal Authority for Identity, Citizenship, Customs & Port Security (ICP) offers digital signature and timestamp service. The service enables entities and individuals to sign documents and transactions digitally using their ID card, with a timestamp on the signature that shows the date and exact time of the signature. The timestamp cannot be changed or altered even by the owner of the digital signature which gives undisputed accuracy of document and transaction creation and updates.
+Federal Authority for Identity, Citizenship, Customs & Port Security (ICP) offers digital signature and timestamp service. The service enables entities and individuals to sign documents and transactions digitally using their ID card, with a timestamp on the signature that shows the date and exact time of the signature. The timestamp cannot be changed or altered even by the owner of the digital signature which gives undisputed accuracy of document and transaction creation and updates.
+digital signature and timestamp service
+
+
+ICP Validation Gateway-VG
+ICP Validation Gateway-VG
+ICP Validation Gateway-VG
+To simplify the usage of the Emirates ID card and its certificates, ICP set up a Validation Gateway (VG). VG enables governments, organisations as well as individuals to make use of the Emirates ID card in an online scenario. The VG is a service available online that offers a wide variety of digital functionality related to the Emirates ID card. After approval from ICP, users can connect to the VG and perform online services using the Emirates ID cards for authentication and signing.
+To simplify the usage of the Emirates ID card and its certificates, ICP set up a Validation Gateway
+Validation Gateway
+VG). VG enables governments, organisations as well as individuals to make use of the Emirates ID card in an online scenario. The VG is a service available online that offers a wide variety of digital functionality related to the Emirates ID card. After approval from ICP, users can connect to the VG and perform online services using the Emirates ID cards for authentication and signing.
+Related eServices
+Related eServices
+Related eServices
+
+Renew your licence of certification service provider - TDRA
+Renew your licence of certification service provider
+Digital signing service - Federal Authority for Identity and Citizenship - ICP
+Digital signing service
+Child Digital Safety
+Ministry of Interior and the National Programme for Happiness and Wellbeing launched the ‘Child Digital Safety’ initiative in March 2018, in a joint effort to raise awareness among children and school students about online threats and challenges, and promote a safe and constructive use of the internet.
+Ministry of Interior and the National Programme for Happiness and Wellbeing launched the ‘Child Digital Safety’ initiative in March 2018, in a joint effort to raise awareness among children and school students about online threats and challenges, and promote a safe and constructive use of the internet.
+
+
+The initiative also familiarises parents and educators with solutions they can use to address these challenges and ensure the safety of their children and students. It includes developing educational material on digital safety, facilitating children with global best practices in that domain, and providing advice to parents and teachers to enhance digital safety for their children at home and in the learning environment.
+The initiative also familiarises parents and educators with solutions they can use to address these challenges and ensure the safety of their children and students. It includes developing educational material on digital safety, facilitating children with global best practices in that domain, and providing advice to parents and teachers to enhance digital safety for their children at home and in the learning environment.
+digital safety
+Four sub-initiatives to enhance digital safety of children
+Four sub-initiatives to enhance digital safety of children
+Four sub-initiatives to enhance digital safety of children
+This initiative consists of four main sub-initiatives. They are:
+This initiative consists of four main sub-initiatives. They are:
+
+
+Protection of children's data online
+Protection of children's data online
+Article 29 of Federal Law No. 3 of 2016 Concerning Child Rights, also known as Wadeema's Law (PDF, 250 KB), states: The telecommunications companies and internet service providers shall notify the competent authorities or the concerned entities of any child pornography materials being circulated through the social media sites and on the Internet and shall provide necessary information and data on the persons, entities or sites that circulate such material or intend to mislead the children.
+Wadeema's Law
+
+In addition, the Dubai Data Law (Law No. 26 of 2015 on the Organization of Dubai Data Publication and Sharing, PDF 250 KB) aims for data protection and privacy of all individuals including that of children.
+the Dubai Data Law
+
+
+The Sannif initiative was launched to enable parents to learn about eGames and assess their impact on their children.
+The Sannif initiative was launched to enable parents to learn about eGames and assess their impact on their children.
+Sannif
+
+
+
+ITU’s Child Online Protection (COP) Guidelines
+ITU’s Child Online Protection (COP) Guidelines
+ITU’s Child Online Protection (COP) Guidelines
+ITU launched the 2020 Child Online Protection (COP) Guidelines to ensure that the rights of children are being respected when they are online. The guidelines are the product of the collaborative effort of 80 experts from different sectors including governments, international organisations, NGOs, academia and the private sector.
+
+
+ITU has developed specific guidelines for:
+ITU has developed specific guidelines for:
+children
+children
+children
+parents and educators
+parents and educators
+parents and educators
+industry
+industry
+and
+policymakers
+policymakers
+policy
+.
+
+In addition, ITU and its partners are in the process of launching training courses to educate everyone about children’s online safety. Discover and enrol for courses. To support the implementation of the 2020 COP Guidelines globally, ITU further launched ‘Global Programme on Child Online Protection & Online Safety with Sango for Kids’.
+Discover and enrol for courses.
+
+Read more about the UAE’s Efforts Towards Child Online Protection (PDF, 6.30MB).
+UAE’s Efforts Towards Child Online Protection
+
+Watch this video
+UAE Cybersecurity Council
+In November 2020, the UAE Cabinet agreed to establish the UAE Cybersecurity Council with the aim of developing a comprehensive cybersecurity strategy and creating a safe and strong cyber infrastructure in the UAE.
+The council will be chaired by the Head of Cyber Security for the UAE Government and will contribute to creating a legal and regulatory framework that covers all types of cybercrimes, securing existing and emerging technologies and establishing a robust ‘National Cyber Incident Response Plan’ to enable swift and coordinated response to cyber incidents in the country.
+Read related news coverage on WAM.
+WAM
+Global Cybersecurity Index
+The UAE was ranked fifth globally for a robust cybersecurity infrastructure as per the Global Cybersecurity Index 2020 report, issued by International Telecommunication Union.
+Global Cybersecurity Index 2020
+, issued by
+International Telecommunication Union
+.
+
+
+The report measured 193 countries for their cybersecurity infrastructure on the following five pillars:
+
+
+Each pillar weighs 20 points. The UAE achieved a full score in the 3 pillars of legal measures, capacity development and cooperative measures. Its total score is 98.06 out of 100.
+
+The UAE made a huge jump in its rank from 33rd in the 2019 report to 5th in 2020, where it shares its position jointly with Russia and Malaysia.
+Dubai Cyber Index
+H. H. Sheikh Hamdan bin Mohammed bin Rashid Al Maktoum, Crown Prince of Dubai and Chairman of Executive Council of Dubai launched Dubai Cyber Index, an initiative aimed at supporting the efforts of Dubai Government entities to ensure the highest standards of cybersecurity. Being the first initiative of its kind in the world, the index seeks to establish Dubai as the city with the safest cyber space in the world.
+Executive Council of Dubai
+
+The index is aligned with the goal of Dubai Cyber Security Strategy to protect Dubai from a range of cybersecurity risks and support the emirate’s economic growth. It is also part of the city’s efforts to drive rapid technological progress and digital transformation. Dubai Cyber Index seeks to promote healthy competition among government entities in the field of cybersecurity and encourage the development of capabilities and excellence in this area.
+Dubai Cyber Security Strategy
+
+The index was developed by Dubai Electronic Security Center (DESC) as part of its mandate to implement a government information security policy that provides the highest benchmarks of cybersecurity in the emirate. DESC monitors government entities to ensure that they comply with the information security requirements in order to ensure effective and secure communication networks and information systems.
+Dubai Electronic Security Center
+
+Watch video about Dubai Cyber Index.
+
+
+Read related news coverage on WAM.
+WAM
+Was this information helpful?
+Give us your feedback so we can improve your experience.
+
+
+
+
+
+
+
+
+
+
+Thank you for submitting your feedback.
+Next topic
+Road safety
+
+Next topic
+Road safety
+Prev topic
+Food safety
+
+Prev topic
+Food safety
+View all services
+
+View all services

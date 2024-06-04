@@ -1,0 +1,200 @@
+Information and services
+Connected government (G2G)
+Measuring the digital government services, eParticipation and open data
+Telecommunications and Digital Government Regulatory Authority (TDRA) developed the UAE Digital Government Online Service Index (DGOSI) to evaluate the quality of digital services offered by federal government entities and to assess the status and progress of digital participation and open data in these entities.
+
+Telecommunications and Digital Government Regulatory Authority (TDRA) developed the UAE Digital Government Online Service Index (DGOSI) to evaluate the quality of digital services offered by federal government entities and to assess the status and progress of digital participation and open data in these entities.
+UAE Digital Government Online Services Index - DGOSI
+Measuring the digital government indices (2014 -2022)
+UAE Digital Government Online Services Index - DGOSI
+Purpose of the UAE Digital Government Online Service Index - DGOSI
+Purpose of the UAE Digital Government Online Service Index - DGOSI
+Purpose of the UAE Digital Government Online Service Index - DGOSI
+The UAE Digital Government Online Service Index (DGOSI) was developed as a comprehensive evaluation tool to assess the digital services provided by the federal government entities in the UAE.
+The UAE Digital Government Online Service Index (DGOSI) was developed as a comprehensive evaluation tool to assess the digital services provided by the federal government entities in the UAE.
+
+
+Objectives
+Objectives
+Objectives
+The primary objectives of this index are to:
+The primary objectives of this index are to:
+Contribute to improving the quality of life of individuals in the UAE by encouraging a human- centric and inclusive approach to government service delivery
+Promote the design of innovative digital government services based on data insights and user engagement.
+enhance the delivery of efficient proactive, seamless and integrated digital government services to improve the overall user experience, trust and satisfaction
+
+
+UAE Digital Government Online Service Index Framework
+UAE Digital Government Online Service Index Framework
+UAE Digital Government Online Service Index Framework
+The framework for the UAE Digital Government Online Service Index consists of 50 criteria designed to evaluate the quality of digital services. Additionally, it includes 24 criteria that assess the extent of digital participation and open data, ensuring full alignment with the online services index. UAE Digital Government Online Service Index consists of the following two main indicators:
+The framework for the UAE Digital Government Online Service Index consists of 50 criteria designed to evaluate the quality of digital services. Additionally, it includes 24 criteria that assess the extent of digital participation and open data, ensuring full alignment with the online services index. UAE Digital Government Online Service Index consists of the following two main indicators:
+
+
+The Digital Services Quality index? (DSQI)
+The Digital Services Quality index? (DSQI)
+The DSQI assesses the level of digitisation and quality of government services. It provides a measurement for each digital service offered by a government entity. The primary focus of the DSQI is to evaluate the effectiveness and efficiency of government digital services that are intended for use by individuals, businesses and other government entities.
+The DSQI assesses the level of digitisation and quality of government services. It provides a measurement for each digital service offered by a government entity. The primary focus of the DSQI is to evaluate the effectiveness and efficiency of government digital services that are intended for use by individuals, businesses and other government entities.
+
+
+DSQI consists of 8 criteria (called measures) for a service. Each criteria has further sub-criteria. The table below demonstrates service measures and their definitions.
+DSQI consists of 8 criteria (called measures) for a service. Each criteria has further sub-criteria. The table below demonstrates service measures and their definitions.
+
+
+Measures
+Definition
+No. of individual criteria
+1
+End-to-end service
+It evaluates the extent of end-to-end services and the sourcing of data from other government entities
+6
+2
+Proactive service
+It assesses the level to which government entities use customer information to initiate services
+use customer information to initiate services
+5
+3
+Identity and authentication
+It measures the degree to which the services utilise
+identity and authentication
+identity and authentication
+enablers
+4
+4
+Service design standards
+It evaluates the degree to which services meet the published service design standards
+service design standards
+13
+5
+Service availability and awareness
+It measures the level to which services are available 24/7 and are widely marketed and recognised by all beneficiaries
+8
+6
+Service usage
+It measures the usage of the digital service by customers
+3
+7
+Customer satisfaction
+It measures the level of satisfaction of customers with digital services
+level of satisfaction of customers with digital services
+3
+8
+Reference data service
+It measures how government entities provide reference data in accordance with the Government Service Bus- GSB requirements.
+GSB requirements
+8
+
+
+The Digital Participation and Open Data (DPOD) Index
+The Digital Participation and Open Data (DPOD) Index
+A separate assessment is conducted at the organisational level to measure digital participation and open data and their compliance with the OSI requirements. DPOD index measures the status and achievements of digital participation and open data in a government entity. The index consists of two measures for the entity and each measure has its own individual criteria:
+A separate assessment is conducted at the organisational level to measure digital participation and open data and their compliance with the OSI requirements. DPOD index measures the status and achievements of digital participation and open data in a government entity. The index consists of two measures for the entity and each measure has its own individual criteria:
+
+
+Measures
+Definition
+No. of individual criteria
+1
+Digital participation
+It measures publication of required documentation about digital participation and the publication of required information about digital participation
+11
+2
+Open data
+It measures publication of required documentation about open data and the publication of required information about open data
+It measures publication of required documentation about open data and the
+13
+
+
+Assessment scope
+Assessment scope
+Assessment scope
+The assessment covers four categories of services. The following table demonstrates the categories and scope of these services:
+The assessment covers four categories of services. The following table demonstrates the categories and scope of these services:
+
+
+Categories of services
+Categories of services
+Scope
+Scope
+Priority services
+Priority services
+
+These services contribute to a significant weight in the overall assessment
+These services contribute to a significant weight in the overall assessment
+Bundled services
+Bundled services
+
+These services are integrated based on customer needs and offered as a package. They use the information from assessments of individual priority and other services
+These services are integrated based on customer needs and offered as a package. They use the information from assessments of individual priority and other services
+Other services
+Other services
+
+These services are assessed but are not in the list of priority services. They contribute to a lower weight in the overall assessment of an entity.
+These services are assessed but are not in the list of priority services. They contribute to a lower weight in the overall assessment of an entity.
+Reference data services
+Reference data services
+
+These services publish reference data through the GSB. They relate to the ‘Ask Once’ strategic direction and GSB mandate.
+These services publish reference data through the GSB. They relate to the ‘Ask Once’ strategic direction and GSB mandate.
+
+Departments responsible for the implementation of the UAE’s DGOSI
+Departments responsible for the implementation of the UAE’s DGOSI
+Departments responsible for the implementation of the UAE’s DGOSI
+The following departments in every federal government entity are responsible for the implementation of the UAE Digital Government Online Services Index:
+The following departments in every federal government entity are responsible for the implementation of the UAE Digital Government Online Services Index:
+Entity’s leadership
+Strategy and Future department
+core business department
+Information Technology department
+Corporate Communications department
+Customer Happiness department.
+
+
+Refer to the following documents for full information about UAE Digital Government Online Service Index Framework and assessment of quality of digital services:
+Refer to the following documents for full information about UAE Digital Government Online Service Index Framework and assessment of quality of digital services:
+UAE Digital Government Online Services Index
+UAE Digital Government Online Services Index
+UAE Digital Government Online Services Index
+- (PDF, 112 MB)
+UAE Digital Government Online Services Index
+UAE Digital Government Online Services Index
+UAE Digital Government Online Services Index
+- (Word, 242 KB)
+
+
+Read about the Emirati way in designing government services on this platform 'Government Service Development Guide 2.0'.
+Read about the Emirati way in designing government services on this platform 'Government Service Development Guide 2.0'.
+Read about the Emirati way in designing government services on this platform
+
+'
+Government Service Development Guide 2.0
+'.
+Measuring the digital government indices (2014 -2022)
+Earlier, TDRA implemented the digital government indices project which involves measuring the achievement of the federal entities in the field of digital transformation. This project evaluated the level of readiness of the UAE Government to provide round the clock digital services in a secure environment. This document (PDF, 715 KB) highlights the purpose of the project and the indices that depict the UAE's digital transformation and the entities responsible for each index.
+document
+Was this information helpful?
+Give us your feedback so we can improve your experience.
+
+
+
+
+
+
+
+
+
+
+Thank you for submitting your feedback.
+Next topic
+mSurvey
+
+Next topic
+mSurvey
+Prev topic
+Internet Protocol 6.0 (IPV6)
+
+Prev topic
+Internet Protocol 6.0 (IPV6)
+View all services
+
+View all services

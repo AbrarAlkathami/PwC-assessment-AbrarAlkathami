@@ -1,0 +1,129 @@
+Information and services
+Connected government (G2G)
+Open government data
+Disclosing government data brings transparency in government transactions and makes them accountable for their actions. It facilitates public scrutiny and evaluation of government performance. Open data helps in the efficient use of resources, designing customised service delivery and creation of more jobs. Read about laws, policies and platforms related to open government data.
+Disclosing government data brings transparency in government transactions and makes them accountable for their actions. It facilitates public scrutiny and evaluation of government performance. Open data helps in the efficient use of resources, designing customised service delivery and creation of more jobs. Read about laws, policies and platforms related to open government data.
+Disclosing government data brings transparency in government transactions and makes them accountable for their actions. It facilitates public scrutiny and evaluation of government performance. Open data helps in the efficient use of resources, designing customised service delivery and creation of more jobs. Read about laws, policies and platforms related to open government data.
+Open government data - laws, policies and platforms
+Benefits of open government data and guidelines
+Open government data - laws, policies and platforms
+The benefits of open government data can be reaped if it is supported by a legal framework. To support the open government data, the UAE has taken the following steps:
+Launched data protection laws
+Launched data protection laws
+data protection laws
+Smart Data Strategy
+The UAE Smart Data framework
+the open data guidelines
+the open data guidelines
+the website of Telecommunications and Digital Government Regulatory Authority
+Telecommunications and Digital Government Regulatory Authority
+launched Dubai Data strategy; one of its aim is to optimise use of data for data providers
+Dubai Data strategy
+passed the Dubai Data law; one of its aim is data protection and privacy of the individual
+passed the Dubai Data law
+DubaiPulse, that will serve as the central platform for providing computing and storage services, core analytic services and big data services
+DubaiPulse
+UAE's data portal - Bayanat
+Abu Dhabi Data
+Abu Dhabi Government Data Management Policy
+Abu Dhabi Government Data Management Standards
+launched Ajman Data
+UAE SDG Data Hub
+
+
+Federal Competitiveness and Statistics Centre is the UAE government source for national statistics in all sectors. In addition, all federal entities in the UAE have open data and publications on their portals available to the public.
+Federal Competitiveness and Statistics Centre
+Federal Competitiveness and Statistics Centre
+is the UAE government source for national statistics in all sectors. In addition, all federal entities in the UAE have open data and publications on their portals available to the public.
+Below are links to open data available in the following sectors in the UAE:
+Open Data for health
+Open Data for education
+Open Data for government human resources and employment
+Open Data for social affairs
+Open Data for labour and private sector establishments
+Federal budgets
+
+Government Financial Statistics
+
+Statistical Reports on the Gulf Market
+Statistical Reports on the Gulf Market
+Read open data policy of Ministry of Finance.
+Read open data policy of Ministry of Finance.
+Read open data policy of Ministry of Finance
+Open Data which relates to environment
+Open Data for Justice
+Open Data for Telecommunications and Digital Government
+Benefits of open government data and guidelines
+What is open government data?
+What is open government data?
+Government data that is freely available for anyone to use, reuse, distribute or share with others without restrictions is called open government data. As per the UN eGovernment Survey 2018 (PDF, 2 MB), open government data is government information proactively disclosed and made available online for all to access, without restriction.
+UN eGovernment Survey 2018 (PDF, 2 MB)
+UN eGovernment Survey 2018
+
+Benefits of open government data
+Benefits of open government data
+Disclosing government data brings transparency in government transactions and makes them accountable for their actions. It facilitates public scrutiny and evaluation of government performance. Open data helps in efficient use of resources, designing customised service delivery and creation of more jobs. It helps people to make informed decisions about public policies and identify development opportunities. Through all its endeavours, open government data helps to achieve the SDGs.
+SDGs
+SDGs
+
+A document issued by World Bank (PDF, 1.5 MB) estimates the direct, annual economic value of open government data in two different studies as up to 40 billion euros throughout the European Union and close to 2 billion pounds in the UK.
+document issued by World Bank
+document issued by World Bank
+
+Increasingly many countries have launched an open data portal. In 2014, just 46 countries had an open data portal. However, in 2018, 139 countries had an open data portal as per the UN eGovernment Survey 2018.
+The UAE has two data portals: UAE Numbers and Bayanat.
+UAE Numbers
+UAE Numbers
+Bayanat
+Bayanat
+
+The World Bank document brings out the key benefits of open data which are:
+Open data can promote economic growth by helping launch new businesses, create new jobs, increase efficiency in existing organisations and generally improve the climate for foreign investment.
+
+Open data can help strengthen healthcare systems by connecting patients to providers, promote education and ongoing learning, and relieve hunger and improve food security on both a large and small scale.
+
+Open data can expose and prevent mismanagement and corruption. It also helps ensure environmental sustainability through transparent data that can help reduce pollution, conserve natural resources, and build resilience to climate change.
+
+Open data can help improve cities and urban infrastructure. It is key to high-tech smart cities, modern urban planning and the transformation of urban transportation. It can also improve resilience to disasters and ensure that critical resources will be deployed well in emergencies.
+
+A picture showing the benefits of open data
+A picture showing the benefits of open data
+
+Source: the UAE’s Ministry of Finance
+the UAE’s Ministry of Finance
+
+Data Change Management Framework
+Data Change Management Framework
+Data Change Management Framework
+The Dubai Data Change Management Framework provides a practical structure to facilitate transition within the Dubai government. Through a change plan guide, the Dubai Data Manual and supportive toolkits, the Change Management Framework will enable the growth of an effective and sustainable open and shared data culture.
+The Dubai Data Change Management Framework provides a practical structure to facilitate transition within the Dubai government. Through a change plan guide, the Dubai Data Manual and supportive toolkits, the Change Management Framework will enable the growth of an effective and sustainable open and shared data culture.
+
+
+Open Data Guidelines
+Open Data Guidelines
+Open Data Guidelines
+The purpose of Open Data Guidelines is to guide the governmental bodies (ministries, agencies, Councils, etc.) what they are required to adhere to when they follow the Open data policy on their website. The scope of this document is limited to the websites of government agencies in the United Arab Emirates. As the document is open for continuous development, its scope can be expanded as dictated by the public policy of the Government of the United Arab Emirates and related instructions.
+The purpose of Open Data Guidelines is to guide the governmental bodies (ministries, agencies, Councils, etc.) what they are required to adhere to when they follow the Open data policy on their website. The scope of this document is limited to the websites of government agencies in the United Arab Emirates. As the document is open for continuous development, its scope can be expanded as dictated by the public policy of the Government of the United Arab Emirates and related instructions.
+Open Data Guidelines
+
+
+Related links
+
+Related links
+UAE federal open data licence
+UAE Smart Data Classifications
+UAE Smart Data Framework
+UAE Smart Data Principles
+Was this information helpful?
+Give us your feedback so we can improve your experience.
+
+
+
+
+
+
+
+
+
+
+Thank you for submitting your feedback.

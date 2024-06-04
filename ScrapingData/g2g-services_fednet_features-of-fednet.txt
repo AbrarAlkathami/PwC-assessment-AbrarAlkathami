@@ -1,0 +1,42 @@
+Information and services
+Connected government (G2G)
+Federal Network (FedNet)
+Features of FedNet
+Federal Network (FedNet) provides available, convenient, on-demand network access to a shared pool of configurable computing resources for all federal government entities.
+Some of the features of Federal Network (FedNet) include:
+Secured infrastructure
+FedNet has been implemented with a secure architecture for the connected government entities, which enhance the UAE’s cyber security. This is done through the secured and private network, Multi-protocol Label Switching (MPLS) cloud.
+
+Cloud computing
+The FedNet programme will deliver a cloud environment which is scalable on demand, has a large computing and storage capacity and is available 24x7x365.
+
+Central hosting
+FedNet is built around a central hosting concept whereby Mobile Government services and applications can be provided quickly using the latest cloud synchronisation and automation technologies.
+
+High
+availability
+High availability is a fundamental principal of the FedNet’s design. This means that there are no single points of failure within the FedNet network structure.
+
+Cost
+saving
+FedNet saves government costs through the consolidation of shared government services and reducing the internet footprint within the UAE.
+
+Comprehensiveness
+The scope of FedNet extends to all government entities in the UAE. FedNet is being implemented in local government entities in phases. Once implemented, FedNet will enable governments to exchange data and services across the UAE.
+
+
+Scalability
+FedNet has the potential of expanding services and solutions it provides depending on the increasing future needs of the government entities.
+Was this information helpful?
+Give us your feedback so we can improve your experience.
+
+
+
+
+
+
+
+
+
+
+Thank you for submitting your feedback.

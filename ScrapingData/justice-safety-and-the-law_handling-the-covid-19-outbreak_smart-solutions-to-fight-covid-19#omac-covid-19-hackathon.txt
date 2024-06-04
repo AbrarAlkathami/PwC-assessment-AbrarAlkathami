@@ -1,0 +1,231 @@
+Information and services
+Justice, safety and the law
+Handling  the COVID-19 outbreak
+Smart solutions to fight COVID-19
+The UAE Government put to use several smart solutions to detect the cases of COVID-19 and control its spread. Most useful among the smart solutions is the ALHOSN UAE app. The app detects if an individual has been in close proximity to someone who had contact with someone infected with COVID-19. The other is the chatbot service titled Virtual Doctor for COVID-19. The chatbot in the Virtual Doctor service asks several vital questions which will help it to deduce if a person is at risk of getting COVID-19.
+The UAE Government put to use several smart solutions to detect the cases of COVID-19 and control its spread. Most useful among the smart solutions is the ALHOSN UAE app. The app detects if an individual has been in close proximity to someone who had contact with someone infected with COVID-19. The other is the chatbot service titled Virtual Doctor for COVID-19. The chatbot in the Virtual Doctor service asks several vital questions which will help it to deduce if a person is at risk of getting COVID-19.
+The UAE Government put to use several smart solutions to detect the cases of COVID-19 and control its spread. Most useful among the smart solutions is the ALHOSN UAE app. The app detects if an individual has been in close proximity to someone who had contact with someone infected with COVID-19. The other is the chatbot service titled Virtual Doctor for COVID-19. The chatbot in the Virtual Doctor service asks several vital questions which will help it to deduce if a person is at risk of getting COVID-19.
+The Al Hosn app
+Virtual Doctor for COVID-19
+Smartwatch to monitor self-isolating patients
+AI in taxis to curb the spread of COVID-19
+OMAC COVID-19 Hackathon
+TraceCovid app
+The StayHome app
+The DOH RemoteCare app
+Smart helmet to monitor coronavirus
+The Al Hosn app
+Al Hosn is the UAE’s official app for contact tracing and health status related to COVID-19. On the Al Hosn app, you will be able to receive:
+Al Hosn
+Al Hosn
+Al Hosn
+is the UAE’s official app for contact tracing and health status related to COVID-19. On the Al Hosn app, you will be able to receive:
+COVID-19 test results and a record of all previous COVID-19 results with their dates
+a notification if you have been in contact with a confirmed case of COVID-19
+vaccination information, including the type of vaccine you have taken and the date of dose given.
+The app also facilitates sharing test reports and vaccination certificates.
+The app also facilitates sharing test reports and vaccination certificates.
+
+
+How it works
+How it works
+Al Hosn generates a unique personal QR code, following a three colour-coding system: grey, green or red on the completion of your vaccination and validity of your RT-PCR test result. Find details here.
+Al Hosn generates a unique personal QR code, following a three colour-coding system: grey, green or red
+on the completion of your vaccination and validity of your RT-PCR test result.
+Find details here.
+Find details here
+Learn how to maintain a ‘green’ status on the Al Hosn app.
+Learn how to maintain a ‘green’ status on the
+maintain a ‘green’ status on the
+Al Hosn app.
+Al Hosn app.
+
+
+Update: As per the latest COVID-19 regulation update on Al Hosn app, you must take a PCR test every 14 days instead of 30 days to maintain the green pass status.
+As per the latest COVID-19 regulation update on Al Hosn app, you must take a PCR test every 14 days instead of 30 days to maintain the green pass status.
+PCR test every 14 days instead of 30 days to maintain the green pass status.
+maintain the green pass status
+
+Benefits
+Benefits
+Al Hosn’s colour coding system helps authorities to identify the health status of individuals and permit them to go to public spaces and workplaces.
+Parents and guardians can add their family members and access the test results of their dependents.
+
+
+How to install
+How to install
+The app is currently available in Arabic, English and Hindi. You can download it from the App Store, Google Play, Huawei App Gallery, and Galaxy Store for free.
+The app is currently available in Arabic, English and Hindi. You can download it from the
+App Store,
+App Store,
+App Store,
+
+Google Play
+Google Play
+Google Play
+,
+Huawei App Gallery
+Huawei App Gallery
+Huawei App Gallery
+, and
+Galaxy Store
+Galaxy Store
+Galaxy Store
+for free.
+
+
+Register and authenticate by entering your Emirates ID or Unified ID and mobile number followed by the OTP sent to your phone.
+Register and authenticate by entering your Emirates ID or Unified ID and mobile number followed by the OTP sent to your phone.
+
+
+An internet connection is required when you first install the Al Hosn app. However, since the app is whitelisted by the telecom operators in the UAE, the data you use will not be counted against your quota.
+An internet connection is required when you first install the Al Hosn app. However, since the app is whitelisted by the telecom operators in the UAE, the data you use will not be counted against your quota.
+
+
+If you do not have a smart phone, you can use the Al Hosn web application with your web browser to log in and check your status.
+If you do not have a smart phone, you can use the
+Al Hosn web application with your web browser
+Al Hosn web application with your web browser
+Al Hosn web application with your web browser
+to log in and check your status.
+
+
+Note:
+Note:
+The Al Hosn app stores your personal information in an encrypted format. When the app communicates with other phones, your personal details are anonymised.
+It is mandatory to turn on Bluetooth and push notifications on your smartphone.
+
+
+Call 800 HOSN (4676) if you face an issue in installing or using the Al Hosn app.
+Call 800 HOSN (4676) if you face an issue in installing or using the Al Hosn app.
+
+
+Read answers to FAQs about Al Hosn app.
+Read answers to
+FAQs about Al Hosn app
+FAQs about Al Hosn app
+FAQs about Al Hosn app
+.
+
+Watch this video about using ALHOSN UAE app.
+
+Virtual Doctor for COVID-19
+Ministry of Health and Prevention (MoHaP) launched a chatbot service titled Virtual Doctor for COVID-19. People can use the service to assess whether their symptoms could be associated with the novel coronavirus, COVID-19.
+The chatbot in the Virtual Doctor service asks questions relating to the persons’ travel history, if they have come in contact with someone who has travelled and is sick and if they have come in contact with someone known to have COVID-19. It also asks if the person is suffering from specific symptoms and about his health habits. Depending on the person’s answers, the chatbot will deduce if he/she is at risk. It will connect him/her to a doctor through the same service.
+
+Read related news coverage on WAM.
+WAM
+Smartwatch to monitor self-isolating patients
+Abu Dhabi Government is using electronic wristbands as part of its effort to enforce isolation and reduce the spread of COVID-19. The device serves as a tracing and monitoring tool and is linked to the COVID-19 testing and tracing app, Al Hosn and will be used to make sure that self-isolating people actually stay at home.
+Al Hosn
+
+The smartwatch helps to identify and track the geographical location of the patient and ensure that he or she does not leave home and jeopardise public health. These smart tools are provided to the patients free of cost.
+
+Read related news coverage on the websites of WAM.
+WAM
+.
+AI in taxis to curb the spread of COVID-19
+Dubai’s Roads and Transport Authority (RTA) announced that the use of Artificial Intelligence (AI) technologies, such as computer vision and machine learning algorithms, proved very effective in detecting and reporting violations of the novel coronavirus, COVID-19 preventive measures.
+Roads and Transport Authority
+(
+
+AI technologies have been employed to monitor and verify the compliance with the preventive measures undertaken to limit the spread of COVID-19. The technology can also report offences such as the failure to observe physical distancing and the improper wearing of face masks, thanks to the video analysis feature.
+
+Read related news coverage on the websites of WAM and RTA.
+WAM
+RTA
+OMAC COVID-19 Hackathon
+In April 2020, Dubai Future Foundation launched the One Million Arab Coders COVID-19 Hackathon to engage Arab coders from around the world to develop innovative solutions to challenges specially in the areas of health and education, that have emerged due to the COVID-19 outbreak.
+
+The hackathon provides participants with an opportunity to highlight their skills, ideas and knowledge in employing the programming languages to find solutions for challenges case by COVID-19. Arab coders from all around the world can participate and present their innovative solutions through the OMAC COVID-19 Hackathon.
+OMAC COVID-19 Hackathon
+
+Once the phase of preparing for the project concludes, the jury will select 15 best teams based on prototype work, economic feasibility, user experience and cost of implementation. These teams will present their projects and solutions to a committee from Dubai Future Foundation which will select 5 projects worth USD 50,000.
+
+Read related news coverage on WAM.
+WAM
+TraceCovid app
+The TraceCovid app detects other devices that have the same app and shares proximity data with it. When two users who have installed the TraceCovid app come in contact with one another, a ‘Secure Tracing Identifier’ (STI) is exchanged and stored in their respective phones. This STI list contains the records of individuals that a user had close contact with. If one of the users is infected with the virus, the relevant authorities will be able to access the user’s data and timestamp and reach out to possibly infected individuals easily.
+The
+app detects other devices that have the same app and shares proximity data with it. When two users who have installed the TraceCovid app come in contact with one another, a ‘Secure Tracing Identifier’ (STI) is exchanged and stored in their respective phones. This STI list contains the records of individuals that a user had close contact with. If one of the users is infected with the virus, the relevant authorities will be able to access the user’s data and timestamp and reach out to possibly infected individuals easily.
+
+
+Hence, the app helps in tracking COVID-19 cases by auto-recording all the people who had been near a COVID-19 patient, including those that might not be known to the patient. The app functions on Bluetooth-enabled smartphones. The Bluetooth feature must remain active at all times for the application to read and determine the user’s exact location.
+Hence, the app helps in tracking COVID-19 cases by auto-recording all the people who had been near a COVID-19 patient, including those that might not be known to the patient. The app functions on Bluetooth-enabled smartphones. The Bluetooth feature must remain active at all times for the application to read and determine the user’s exact location.
+
+
+The TraceCovid app is launched by Department of Health - Abu Dhabi (DoH) and is available on App Store.
+The TraceCovid app is launched by
+Department of Health - Abu Dhabi
+Department of Health - Abu Dhabi
+(DoH) and is available on
+App Store.
+
+The StayHome app
+The StayHome app ensures that people directed to self-quarantine are complying with the mandatory quarantine requirements. Through the app, a quarantined person can share his self-quarantine status and his location with Department of Health - Abu Dhabi (DoH). DoH can send alerts to quarantined people to stay within the range of movement allowed during the quarantine period.
+The StayHome app ensures that people directed to self-quarantine are complying with the mandatory quarantine requirements. Through the app, a quarantined person can share his self-quarantine status and his location with
+Department of Health - Abu Dhabi
+Department of Health - Abu Dhabi
+Department of Health - Abu Dhabi
+(DoH).
+DoH can send
+alerts to quarantined people to stay within the range of movement allowed during the quarantine period.
+
+
+When a person is identified for home quarantine, DoH will advise him to download the StayHome app from Google Play or Apple Store. DoH will then issue him a username and password to use the app. The quarantined person must enable the app’s access to camera, media, location, audio and calls for the app to work effectively. DoH will periodically send notifications to the quarantined person asking him to check in to his location then. The person has to take a photo of himself to finalise the check in.
+When a person is identified for home quarantine, DoH will advise him to download the StayHome app from
+Google Play
+or
+Apple Store.
+Apple Store.
+Apple Store.
+DoH will then issue him a username and password to use the app. The quarantined person must enable the app’s access to camera, media, location, audio and calls for the app to work effectively. DoH will periodically send notifications to the quarantined person asking him to check in to his location then. The person has to take a photo of himself to finalise the check in.
+The DOH RemoteCare app
+The DOH RemoteCare app is a free digital healthcare solution through which people can receive healthcare at their own homes, without visiting a hospital or clinic physically.
+The
+DOH RemoteCare app
+DOH RemoteCare app
+is a free digital healthcare solution through which people can receive healthcare at their own homes, without visiting a hospital or clinic physically.
+
+
+The app has a tool for examining symptoms, diagnosing non-emergency cases, booking appointments and getting tele-consultations with doctors via voice or video calls or text messages.
+The app has a tool for examining symptoms, diagnosing non-emergency cases, booking appointments and getting tele-consultations with doctors via voice or video calls or text messages.
+
+
+In addition, the app enables users to obtain referrals from doctors and request prescriptions online and get medicines delivered to their homes.
+In addition, the app enables users to obtain referrals from doctors and request prescriptions online and get medicines delivered to their homes.
+
+
+The app was launched by Department of Health – Abu Dhabi to cater to the medical needs of people with chronic diseases, the elderly and to those who have been infected with COVID-19 and are under home isolation.
+The app was launched by
+Department of Health – Abu Dhabi
+Department of Health – Abu Dhabi
+to cater to the medical needs of people with chronic diseases, the elderly and to those who have been infected with COVID-19 and are under home isolation.
+Smart helmet to monitor coronavirus
+Ministry of Interior adopted the smart helmet to monitor people who may be infected with the novel coronavirus, COVID-19. The smart helmet is equipped with a thermal camera which can help the authorities in detecting infected people from a safe distance. It is also equipped with sensors which can help the authorities to recognise faces. In addition, the smart helmet can create and read QR codes and can also recognise vehicle licence plate numbers.
+Ministry of Interior adopted the smart helmet to monitor people who may be infected with the novel coronavirus, COVID-19. The smart helmet is equipped with a thermal camera which can help the authorities in detecting infected people from a safe distance. It is also equipped with sensors which can help the authorities to recognise faces. In addition, the smart helmet can create and read QR codes and can also recognise vehicle licence plate numbers.
+Ministry of Interior
+Ministry of Interior
+
+
+The smart helmet will be used by specialist police teams around the country. Police teams and patrols will use the helmet to diagnose people from a safe distance, enabling them to handle crowds, obtain vital readings and analyse data.
+The smart helmet will be used by specialist police teams around the country. Police teams and patrols will use the helmet to diagnose people from a safe distance, enabling them to handle crowds, obtain vital readings and analyse data.
+
+
+Read related news coverage on WAM.
+Read related news coverage on WAM.
+WAM
+WAM
+Was this information helpful?
+Give us your feedback so we can improve your experience.
+
+
+
+
+
+
+
+
+
+
+Thank you for submitting your feedback.

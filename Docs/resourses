@@ -1,0 +1,23 @@
+They describe the process and how to compare between the llms:
+https://www.shakudo.io/blog/talking-to-your-data-at-scale
+
+This process called:
+retrieval-augmented generation” (RAG)
+
+
+In the vector database:
+1- we need semantic search with contextual relevance so we use vector databases
+2- which allow storing embedding vectors efficiently, and retrieving documents based on embeddings at interactive speeds.
+3- i will use Pinecone as vector database
+
+
+how to compare and evaluate :
+https://www.pinecone.io/blog/rag-study/
+
+
+
+second mlls
+https://www.pinecone.io/learn/llama-2/
+
+evaluation :
+https://www.pinecone.io/learn/offline-evaluation/

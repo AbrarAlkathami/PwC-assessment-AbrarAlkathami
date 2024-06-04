@@ -1,0 +1,77 @@
+Information and services
+Connected government (G2G)
+Government Services Bus (GSB)
+Government Services Bus (GSB) is a project under the UAE mGovernment initiative. It aids smooth exchange of data among the government entities. Find out more about GSB.
+What is Government Services Bus (GSB)?
+Beginning of GSB
+GSB statistics
+What is Government Services Bus (GSB)?
+The Government Services Bus (GSB) project is a part of the UAE mGovernment initiative. GSB helps federal and local entities to exchange data among them smoothly and provide their services in an integrated way. Such system helps the customers get government services without having them to move from one government entity to another.
+Government Services Bus is a part of the FedNet initiative too. It backs the government’s effort to establish a comprehensive connection platform and approve the highest standards of cyber security and safety according to the directions of the UAE’s visionary leadership. GSB contributes to the improvement of customers’ experience and enables government entities to avail data from several sources. Consequently, government services are provided based on the most authenticated and updated sources.
+The GSB project comes as a response to the directives of H. H. Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, to connect services, increase quality of applications and raise customer satisfaction during the next stage of mTransformation.
+The project provides easy, fast and simple way to get services and enhance the concept of mGovernment. It achieves governmental integration and contributes to the satisfaction and happiness of customers.
+Read overview on Government Services Bus (GSB).
+
+
+Beginning of GSB
+GSB started with the commissioning phase with ten entities at the federal level. Entities, which participated in this phase, include:
+Ministry of Community Development
+Ministry of Community Development
+General Pension and Social Security Authority
+General Pension and Social Security Authority
+Ministry of Health and Prevention
+Ministry of Health and Prevention
+Ministry of Human Resources and Emiratisation
+Ministry of Human Resources and Emiratisation
+Ministry of Interior
+Ministry of Interior
+Ministry of Energy & Infrastructure
+Ministry of Justice
+Ministry of Justice
+Ministry of Education
+Ministry of Education
+Ministry of Economy
+Ministry of Economy
+Ministry of Foreign Affairs
+Ministry of Foreign Affairs
+During the trial phase, federal entities implemented the GSB successfully. The project received interest and support of the federal and local government entities. The trial phase included a connection between GSB and Institutional Service Bus established by Abu Dhabi Systems and Information Center. Consequently, Abu Dhabi Retirement Pensions and Benefits Fund could join the project in the trial phase.
+The project contributes to the enhancement of government efficiency and service quality. During the commissioning phase, it provided 15 ancillary services to improve 10 main services provided by federal and local entities participating in the trial phase. Efficiency was reflected in saving 57,831 customer visits and 7,460 employee workdays per year (equal to the work of 30 employees per year). These numbers will be doubled after other government entities join the project and enlist their services.
+8 government entities, including 6 federal entities and 2 local entities had joined GSB by April 2017. 11 services are completely connected to the GSB service.
+8 government entities, including 6 federal entities and 2 local entities had joined GSB by April 2017. 11 services are completely connected to the GSB service.
+
+
+Read more about the Government Service Bus (PDF, 150 KB).
+Read more about the Government Service Bus (PDF, 150 KB).
+Government Service Bus
+GSB statistics
+About 144 government and private entities joined GSB for exchange of data and 276 unique services were provided via the GSB platform until mid-2021.
+Customers carried out 57.6 million transactions in 2019 and 117.65 million transactions in 2020. There was an increase of 104% in the number of transactions in 2020 as compared to 2019.
+Customers carried out 57.6 million transactions in 2019 and 117.65 million transactions in 2020. There was an increase of 104% in the number of transactions in 2020 as compared to 2019.
+GSB, via the ’Mabrouk Ma Yak’ service, has contributed to the reduction of carbon emissions by 346,844 kg in 2020. There were 15,054 ’Mabrouk Ma Yak’ service transactions in 2020.
+Mabrouk Ma Yak
+Was this information helpful?
+Give us your feedback so we can improve your experience.
+
+
+
+
+
+
+
+
+
+
+Thank you for submitting your feedback.
+Next topic
+Internet Protocol 6.0 (IPV6)
+
+Next topic
+Internet Protocol 6.0 (IPV6)
+Prev topic
+Federal Network (FedNet)
+
+Prev topic
+Federal Network (FedNet)
+View all services
+
+View all services
